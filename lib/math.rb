@@ -37,5 +37,5 @@ def order_of_operation(num1, num2, num3, num4)
   num2 = 43
   num3 = 23
   num4 = 83
-  num1 + (( num2 * __ ) / __ )
+  num1 + (( num2 * num3 ) / num4 )
 end

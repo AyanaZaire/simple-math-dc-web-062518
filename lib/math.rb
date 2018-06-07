@@ -1,5 +1,5 @@
-def addition(5, 4)
-  5 + 4
+def addition(5 + 4)
+  addition 
 end
 
 def subtraction(num1, num2)
